@@ -1,0 +1,25 @@
+# Simulation files
+*.vcd
+*.wdb
+*.shm/
+*.wlf
+
+# Compiled files
+*.out
+*.o
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
