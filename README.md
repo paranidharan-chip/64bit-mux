@@ -171,7 +171,7 @@ This generates:
 
 ## Author
 
-[Your Name]
+paranidharan.R
 
 ## License
 
